@@ -1,0 +1,12 @@
+c:\users\julius\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Debug\StudentPortal.exe.config
+C:\Users\Julius\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Debug\StudentPortal.exe
+C:\Users\Julius\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\bin\Debug\StudentPortal.pdb
+C:\Users\Julius\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.csprojResolveAssemblyReference.cache
+C:\Users\Julius\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.Properties.Resources.resources
+C:\Users\Julius\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.csproj.GenerateResource.Cache
+C:\Users\Julius\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.exe
+C:\Users\Julius\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.pdb
+C:\Users\Julius\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.frm_login.resources
+C:\Users\Julius\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.frm_db.resources
+C:\Users\Julius\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.Register.resources
+C:\Users\Julius\documents\visual studio 2013\Projects\StudentPortal\StudentPortal\obj\Debug\StudentPortal.ins_db.resources
